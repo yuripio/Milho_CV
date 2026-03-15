@@ -1,0 +1,5 @@
+path: .
+train: .
+val: .
+names:
+  0: corn
